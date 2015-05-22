@@ -1,0 +1,91 @@
+	{
+	  "Description" : "FirstAnimation", 
+      "sType" : "Animated",
+	  "SpriteMaps" : 
+	  [
+		{
+            "SpriteMapName" : "sprites/explosion17",
+            "Columns" : 5, 
+            "Rows" : 5
+		}
+	  ],
+	  "AnimationSequences" : 
+	  [
+		{	
+			"AnimationName" : "bomb",
+			"AnimationTime" : 400,
+			"AnimationLoop" : 1,
+			"AnimationFrames" : 
+			[
+				{	
+					"weight" : 1,
+					"map" : 0,
+					"row" : 0,
+					"column" : 0
+				},
+				{	
+					"weight" : 1,				
+					"map" : 0,
+					"row" : 0,
+					"column" : 1
+				},
+				{	
+					"weight" : 1,
+					"map" : 0,
+					"row" : 0,
+					"column" : 2
+				},
+				{	
+					"weight" : 1,
+					"map" : 0,
+					"row" : 1,
+					"column" : 0
+				},
+				{	
+					"weight" : 1,
+					"map" : 0,
+					"row" : 1,
+					"column" : 1
+				},
+				{	
+					"weight" : 1,
+					"map" : 0,
+					"row" : 1,
+					"column" : 2
+				},
+				{	
+					"weight" : 1,
+					"map" : 0,
+					"row" : 1,
+					"column" : 1
+				},
+				{	
+					"weight" : 1,				
+					"map" : 0,
+					"row" : 1,
+					"column" : 0
+				},
+				{	
+					"weight" : 1,
+					"map" : 0,
+					"row" : 0,
+					"column" : 2
+				},
+				{	
+					"weight" : 1,
+					"map" : 0,
+					"row" : 0,
+					"column" : 1
+				},
+				{	
+					"weight" : 1,
+					"map" : 0,
+					"row" : 0,
+					"column" : 0
+				}
+			]
+		}
+
+	  ]
+	  
+	}
